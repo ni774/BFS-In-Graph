@@ -51,50 +51,7 @@ int main()
     //     for(int j=0;j<3;j++){
     //         std::cout<<a[i][j]<<" ";
     //     }class Graph
-{class Graphclass Graph
-{class Graph
-{class Graph
-{class Graph
-{class Graph
-{
-    int V;    // No. of vertices
- 
-    // Pointer to an array containing adjacency
-    // lists
-    vector<list<int>> adj;  
-    int V;    // No. of vertices
- 
-    // Pointer to an array containing adjacency
-    // lists
-    vector<list<int>> adj;  
-    int V;    // No. of vertices
- 
-    // Pointer to an array containing adjacency
-    // lists
-    vector<list<int>> adj;  
-    int V;    // No. of vertices
- 
-    // Pointer to an array containing adjacency
-    // lists
-    vector<list<int>> adj;  
-    int V;    // No. of vertices
- 
-    // Pointer to an array containing adjacency
-    // lists
-    vector<list<int>> adj;  
-{
-    int V;    // No. of vertices
- 
-    // Pointer to an array containing adjacency
-    // lists
-    vector<list<int>> adj;  
-    int V;    // No. of vertices
- 
-    // Pointer to an array containing adjacency
-    // lists
-    vector<list<int>> adj;  
-    //     std::cout<<std::endl;
-    // }
+
 
                                        //adjacency list
                                        
